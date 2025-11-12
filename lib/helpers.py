@@ -117,3 +117,14 @@ def helper_function_73(x):
 def format_output(data):
     """Format output data."""
     return str(data).upper()
+
+
+# Helper functions
+
+def helper_function_80(x):
+    """Helper function for iteration 80."""
+    return x * 80
+
+def format_output(data):
+    """Format output data."""
+    return str(data).upper()
